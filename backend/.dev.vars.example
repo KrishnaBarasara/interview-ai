@@ -1,0 +1,13 @@
+# Get these from your Supabase Dashboard -> Project Settings -> API
+SUPABASE_URL="your_supabase_url_here"
+SUPABASE_SERVICE_ROLE_KEY="your_supabase_service_role_key_here"
+
+# Get this from your OpenAI platform dashboard
+OPENAI_API_KEY="your_openai_api_key_here"
+
+# Get this from your AssemblyAI dashboard
+ASSEMBLYAI_API_KEY="your_assemblyai_api_key_here"
+
+RESEND_API_KEY="resend_api_key"
+
+DEEPGRAM_API_KEY="deepgram_api_key"
